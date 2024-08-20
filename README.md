@@ -7,7 +7,7 @@ The backend is Java and Database is MySQL connected using JDBC.
 
 #Donot forget to add Connector JAR files in library.
 
-There is a photo named Table.jpeg, It has all the tables requried to make this movie booking software work create all the tables with the same table name and database name as shown in the pic or else you will face CLASSNOTFOUND Exception.  
+There is a photo named Tables.jpeg, It has all the tables requried to make this movie booking software work create all the tables with the same table name and database name as shown in the pic or else you will face CLASSNOTFOUND Exception.  
 
 Only Welcome.java file is a executable file only this file has a main method in it.
 The other .java files are just methods required to book a movie.
